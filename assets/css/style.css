@@ -1,0 +1,66 @@
+.raleway {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+:root {
+    --raleway: "raleway", sans-serif;
+    --regular: 400;
+    --bold: 700;
+    --black: #212529;
+    --text: #FFFFFF --white: white;
+    --pink: #e83e8c;
+    --blue: #17a2b8;
+}
+
+body {
+    font-family: var(--raleway);
+}
+
+header {
+    color: var(--text);
+    font-family: var(--raleway);
+
+}
+
+.nav {
+    background-color: #373A3C;
+}
+
+.hero-section {
+    background-image: url("../img/bg-hero.jpg");
+    height: 630px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+}
+
+.h1 {
+    font-size: 70px;
+    font-weight: 700;
+}
+.text {
+    font-style: var(--bold);
+    padding-right: 5%;
+    padding-top: 5rem;
+}
+
+.butn-fill{
+width: 99px;
+height: 40px;
+background: #17A2B8 0% 0% no-repeat padding-box;
+border-radius: 4px;
+opacity: 1;
+border-color: #17A2B8
+}
+
+.butn{
+width: 99px;
+height: 40px;
+border-radius: 4px;
+opacity: 1;
+border-color: #17A2B8;
+color: white;
+}
