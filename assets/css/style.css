@@ -64,3 +64,66 @@ opacity: 1;
 border-color: #17A2B8;
 color: white;
 }
+
+h2 {
+    padding-top: 66px;
+    text-align: center;
+    font-weight: 700;
+    font: normal normal bold 50px/59px Raleway;
+}
+p {
+    text-align: center;
+    font: normal normal normal 16px/25px Raleway;
+}
+.icons {
+    font-size: 4rem;
+}
+h5 {
+    padding-top: 1rem;
+    font-weight: bold;
+}
+.icons p {
+    padding-top: 2rem;
+
+
+}
+.work-section {
+background-color:  #17A2B8;  
+color: white;
+
+}
+
+.cards {
+    height: 232px;
+}
+.cards2 {
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+.butn-2{
+    width: 99px;
+height: 40px;
+border-radius: 4px;
+opacity: 1;
+border-color: #17A2B8;
+color: #17A2B8;
+padding-bottom: 1rem;
+
+}
+
+.contact {
+
+    width: 60%;
+    padding-bottom: 2rem;
+    font-style: var(--bold);
+
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    
+}
