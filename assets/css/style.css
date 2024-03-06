@@ -118,7 +118,7 @@ padding-bottom: 1rem;
 
 .contact {
 
-    width: 60%;
+    width: 80%;
     padding-bottom: 2rem;
     font-style: var(--bold);
 
@@ -135,5 +135,9 @@ footer{
 @media (min-width: 768px) {
     h1 {
         font-size: 4.4rem;
+    }
+
+    .contact {
+        width: 60%;
     }
 }
